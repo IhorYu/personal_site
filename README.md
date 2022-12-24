@@ -1,4 +1,4 @@
-https://ihor-yu.dev/
+https://ihor-yu.dev
 <h1>Personal Site</h1>
 <p>This is a Flask application that displays information about the author, their projects, skills, certifications, and contact information.</p>
 
